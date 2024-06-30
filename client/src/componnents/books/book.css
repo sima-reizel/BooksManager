@@ -1,0 +1,27 @@
+.box{
+    color: #f9f4f4;
+    background-image: url("../../../public/books-7309019_1280.webp");
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    font-size: large;
+    background-repeat: repeat;
+    background-position: 50%;
+    background-blend-mode: lighten
+}
+
+.form-control{
+    width: 80%;
+    color: #100f0f;
+    font-size: large
+}
+
+.h3{
+    width: 30%;
+    color: #100f0f;
+}
+
+.send{
+    /* background-image: url("../../../public/60c0e28575cd7c21701806fd_q1cunpuhbdreMPFRSFLyfUXNzpqv_I5fz_plwv6gV3sMNXwUSPrq88pC2iJijEV7wERnKXtdTA0eE4HvdnntGo9AHAWn-IcMPKV-rZw1v75vlTEoLF4OdNqsRb7C6r7Mvzrm7fe4.png"); */
+    padding-top: 10%;
+    padding-left: 30%;
+}

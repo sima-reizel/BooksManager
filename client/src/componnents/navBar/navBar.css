@@ -1,0 +1,10 @@
+.background{
+    background-color:rgb(255, 254, 255);
+    background-image: url("../../../public/istockphoto-1034157536-612x612.jpg");
+    background-repeat: repeat-y;
+    background-position: 100%;
+    background-size: 20%;
+}
+.button{
+    color: rgb(239, 203, 230);
+}
