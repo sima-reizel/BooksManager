@@ -2,14 +2,14 @@
 Clone the repository
 
 ## sever
-1.Enter in the command line to server 
-2.run npm install
-3.run node server.js
-4.You will get:
-//Server is listening on http://localhost:4000
-//Connected to MongoDB
-//collection books is created
-//collection authors is created
+1. Enter in the command line to server 
+2. run npm install
+3. run node server.js
+4. You will get:
+Server is listening on http://localhost:4000
+Connected to MongoDB
+collection books is created
+collection authors is created
 
 ## client
 1.Enter in the command line to client
