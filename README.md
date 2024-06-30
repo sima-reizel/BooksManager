@@ -19,7 +19,7 @@ Clone the repository
 ### At fisrt you will see an empty page it will be filled only after you will add books in the AddBook tab.
 ### Before you add bookes you must have Authors in your author table.
 ### If you dont have authors you can add authors in the AddAuthor tab.
-### Now the image will work well only if you will have select an image from the public file. (Includes images for both the AddBook tab + AddAuthor tab).
+### Now the images will work well only if you will have select an image from the public file. (Includes images for both the AddBook tab + AddAuthor tab).
 ### You can copy images to the public folder or use the current images.
 ### I know that I have to fix this issue.
 
