@@ -1,8 +1,7 @@
-#How to use:
-
+# How to use
 Clone the repository
 
-#Server:
+# sever:
 1.Enter in the command line to server 
 2.run npm install
 3.run node server.js
@@ -12,7 +11,7 @@ Clone the repository
 //collection books is created
 //collection authors is created
 
-#client:
+# client:
 1.Enter in the command line to client
 2.run npm install
 3.run npm start
@@ -26,7 +25,7 @@ you can copy images to the public folfer or use the current images.
 
 I know that I have to fix this issue.
 
-#known issuse
+# known issuse
 The site is not responisve.
 The data base is mongo db and not firebase
 Layout does not look greate with all screen sizes.
