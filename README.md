@@ -24,7 +24,7 @@ Clone the repository
 ### I know that I have to fix this issue.
 
 # known issuse
-The site is not responisve.
-The data base is mongo db and not firebase.
-Layout does not look greate with all screen sizes.
-Many UX GUI improvments to be done.
+1. The site is not responisve.
+2. The data base is mongo db and not firebase.
+3. Layout does not look greate with all screen sizes.
+4. Many UX GUI improvments to be done.
