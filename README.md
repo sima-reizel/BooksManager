@@ -6,16 +6,15 @@ Clone the repository
 2. run npm install
 3. run node server.js
 4. You will get:
-Server is listening on http://localhost:4000
-Connected to MongoDB
-collection books is created
-collection authors is created
+ - Server is listening on http://localhost:4000
+ - Connected to MongoDB
+ - collection books is created
+ - collection authors is created
 
 ## client
-1.Enter in the command line to client
-2.run npm install
-3.run npm start
-
+1. Enter in the command line to client
+2. run npm install
+3. run npm start
 
 At fisrt you will see an empty page it will be filled only after you will add books in the AddBook tab.
 Before you add bookes you must have Authors in your author table.
