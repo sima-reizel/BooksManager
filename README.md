@@ -1,7 +1,7 @@
 # How to use
 Clone the repository
 
-# sever:
+## sever
 1.Enter in the command line to server 
 2.run npm install
 3.run node server.js
@@ -11,7 +11,7 @@ Clone the repository
 //collection books is created
 //collection authors is created
 
-# client:
+## client
 1.Enter in the command line to client
 2.run npm install
 3.run npm start
